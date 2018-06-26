@@ -19,3 +19,5 @@ Below topics are covered in Trainings
 9. How to create route
 
 Explained different Test Types and Test Levels with an example.
+
+As training has been completed , Feedback and doubts clarification session has been taken in the last day.
