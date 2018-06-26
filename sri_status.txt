@@ -1,0 +1,21 @@
+Below topics are covered in Trainings
+
+1. Different Testing Types.
+
+2. Why and When should QA should start their testing.
+
+3. What is mobile application. (what is difference between Andorid and iOS) and how to install and use.
+
+4. How to prepare test cases. 
+
+5. Different Test levels.
+
+6. Understanding of DispatchTrack mobile application end to end.
+
+7. Preparing test cases for DispatchTrack mobile application.
+
+8. Creating service order--->Creating service unit--->Different Admin setup for mobile application features.
+
+9. How to create route
+
+Explained different Test Types and Test Levels with an example.
